@@ -1,0 +1,19 @@
+{
+  "name": "angular_230642",
+  "version": "1.0.0",
+  "description": "Practica-230642",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANTONIOOCPACODOLORES/Angular_230642.git"
+  },
+  "author": "Tony-cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANTONIOOCPACODOLORES/Angular_230642/issues"
+  },
+  "homepage": "https://github.com/ANTONIOOCPACODOLORES/Angular_230642#readme"
+}
