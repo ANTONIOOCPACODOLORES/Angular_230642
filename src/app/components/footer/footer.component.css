@@ -1,5 +1,5 @@
 footer {
-  width: calc(100% - 250px); /* Resta el ancho del sidebar */
+  width: calc(100% - 290px); /* Resta el ancho del sidebar */
   height: 40px;
   background-color: #000000;
   color: #ffffff;
