@@ -1,0 +1,16 @@
+.page-container {
+    @apply flex flex-col min-h-screen bg-gray-100;
+  }
+  
+  .header {
+    @apply bg-blue-600 text-white text-2xl py-4 text-center;
+  }
+  
+  .content {
+    @apply flex-grow p-4;
+  }
+  
+  .footer {
+    @apply bg-gray-800 text-white text-center py-3;
+  }
+  
