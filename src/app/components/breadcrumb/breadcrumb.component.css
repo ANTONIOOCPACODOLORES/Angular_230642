@@ -6,7 +6,7 @@ app-sidebar {
   height: 100vh; /* Asegura que el sidebar ocupe toda la altura */
 }
 .breadcrumb-container {
-  background-color: #2a4753; 
+  background-color: #486875; 
   width: 86.800%; /* Ajusta el ancho */
   margin-left: 250px; /* Lo empuja a la derecha */
   margin-right: 20px; /* Separa del borde derecho */
